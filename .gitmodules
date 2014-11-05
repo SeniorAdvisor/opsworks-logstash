@@ -121,6 +121,3 @@
 [submodule "htpasswd"]
 	path = htpasswd
 	url = https://github.com/Youscribe/htpasswd-cookbook.git
-[submodule "logstash"]
-	path = logstash
-	url = https://github.com/SeniorAdvisor/chef-logstash.git
